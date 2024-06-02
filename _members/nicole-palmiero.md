@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Nicole Palmiero
-position: Research Technician
+position: Project Research Manager/Analyst
 image: /assets/img/members/nicole-palmiero.jpg
 current: true
 group: Staff
